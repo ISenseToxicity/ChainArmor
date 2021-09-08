@@ -1,0 +1,5 @@
+name: ChainArmor
+version: 1.0
+main: me.isensetoxicity.chainarmor.Main
+api-version: 1.17
+author: ISenseToxicity
